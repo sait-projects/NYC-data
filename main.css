@@ -1,0 +1,16 @@
+/* image taken from unsplash */
+.jumbotron-image {
+  background-image: url(./images/newYork.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+}
+
+th {
+  padding-right: 50px;
+}
+
+.logo {
+  width: 50px;
+}
